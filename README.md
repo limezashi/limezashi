@@ -57,15 +57,6 @@
 
 ---
 
-### 👾Projetos em Destaque
-
-#### [Projeto 1: MindTechCare](https://github.com/LisboaNi/MindTechCare)
-Plataforma voltada para bem-estar de equipes de TI, com integração de ferramentas como GitHub e Trello para monitorar e prevenir sinais de burnout e sobrecarga.
-- **Funcionalidades:** Dashboards, Integração com Trello e GitHub.
-- **Tecnologias:** Python, Django, MySQL entre outros.
-
----
-
 <div align="center">
 
 ### Contato
