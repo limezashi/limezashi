@@ -6,21 +6,23 @@
 <!-- [Link do meu Portfólio](https://lisboani.github.io)  -->
 ## About Me
 
+<p>Sou uma estudante bla bla bla</p>
+
 ## SKILLS 
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
-  <img src="./img/superset.svg" alt="Superset" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
-  <img src="./img/dbeaver.svg" alt="DBeaver" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+  <img src="./img/superset.svg" alt="Superset" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+  <img src="./img/dbeaver.svg" alt="DBeaver" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
 </p>
 
 
