@@ -4,9 +4,9 @@
 
 
 <!-- [Link do meu Portfólio](https://lisboani.github.io)  -->
-## About Me
+## ABOUT ME
 
-<p>Sou uma estudante bla bla bla</p>
+<p>Sou uma estudante com grande disposição para o aprendizado contínuo e desenvolvimento profissional, sempre buscando ampliar minha atuação em tecnologia e contribuir de forma proativa para a equipe e a empresa.</p>
 
 ## SKILLS 
 
@@ -25,7 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="background-color:#141414; border-radius:8px; padding:8px;"/>
 </p>
 
-
+##
 <p align="center" style="display: flex; justify-content:space-between; gap: 10px;">
   <img 
     alt="GitHub Stats" 
@@ -47,19 +47,19 @@
 
 ### Contato
 
-  <a href="https://www.linkedin.com/in/nicoli-g-r-lisboa-0a85a221a" target="_blank">
+  <a href="https://www.linkedin.com/in/liviamzs" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-940C65?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=940C65" alt="LinkedIn">
   </a>
-  <a href="https://github.com/LisboaNi" target="_blank">
+  <a href="https://github.com/limezashi" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-940C65?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="mailto:nick.lisboa04@gmail.com" target="_blank">
+  <a href="mailto:liviamezashi@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-940C65?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </div>
 <br>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=lisboani&color=940C65" alt="lisboani" />
+  <img src="https://komarev.com/ghpvc/?username=limezashi&color=940C65" alt="lisboani" />
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=F500A0&height=120&section=footer"/>
